@@ -1,0 +1,11 @@
+{
+	"name": "benchmark",
+	"description": "A simple benchmarking utility for client and server side javascript",
+	"main": "./lib/benchmark",
+	"author": "Jeff Strinko",
+	"version": "0.0.1",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/jstrinko/benchmark.git"
+	}
+}
